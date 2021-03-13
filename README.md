@@ -1,8 +1,9 @@
 # Slash-A_Shell_Simulation
 By
+	-Naga Teja Mariyala
 	-Veerendra Rajkumar
 	-Aakash Sahu
-	-Naga Teja Mariyala
+	
 ----------------------------------------------------------------------------------------------
 This is basic shell simualtion with additional features we wished to add, this is coursework project in C.
 Features avalible:
