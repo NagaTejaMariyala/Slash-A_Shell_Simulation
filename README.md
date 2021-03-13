@@ -6,6 +6,7 @@ By
 	
 ----------------------------------------------------------------------------------------------
 This is basic shell simualtion with additional features we wished to add, this is coursework project in C.
+
 Features avalible:
 1.User can create his account in Slash by giving user id and password and his birthdate to admin.
   Admin can create users only if the user is signed in bash.
