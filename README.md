@@ -4,6 +4,7 @@ By
 	-Veerendra Rajkumar
 	-Aakash Sahu
 	
+	This shell is done as coursework project for Bachelor of Science (Mathematics) in SSSIHL.
 ----------------------------------------------------------------------------------------------
 This is basic shell simualtion with additional features we wished to add, this is coursework project in C.
 
